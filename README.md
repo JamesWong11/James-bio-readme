@@ -1,2 +1,2 @@
 # James-bio-readme
-<title>My name is James.</title>
+My name is James.
